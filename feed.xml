@@ -5,53 +5,16 @@
     <description>Um site para divulgar portifólio. Um blog para compartilhar conhecimento</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Mar 2019 04:11:25 -0300</pubDate>
-    <lastBuildDate>Sun, 31 Mar 2019 04:11:25 -0300</lastBuildDate>
+    <pubDate>Sun, 31 Mar 2019 05:13:18 -0300</pubDate>
+    <lastBuildDate>Sun, 31 Mar 2019 05:13:18 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>Teste do tempo de leitura</title>
-        <description>&lt;h1 id=&quot;teste-de-texto&quot;&gt;Teste de texto&lt;/h1&gt;
-
-&lt;p&gt;Este é um teste de tempo de leitura. Se o tempo informado junta a descrição da postagem.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 Feb 2019 13:39:44 -0300</pubDate>
-        <link>/teste-tempo-leitura/</link>
-        <guid isPermaLink="true">/teste-tempo-leitura/</guid>
-        
-        <category>jekyll</category>
-        
-        <category>template</category>
-        
-        
-        <category>testes</category>
-        
-      </item>
-    
-      <item>
-        <title>Erro Teredo Tunneling</title>
-        <description>&lt;h1 id=&quot;erro-teredo-tunneling&quot;&gt;Erro Teredo Tunneling&lt;/h1&gt; &lt;p&gt;É particularmente interessante para mim falar sobre esse erro, pois parte do que me tornei como profissional eu devo a ele. Mas essa história eu conto no final deste artigo, logo após o passo a passo.&lt;/p&gt; &lt;h2 id=&quot;o-que-é-o-teredo-tunneling&quot;&gt;O que é o Teredo Tunneling?&lt;/h2&gt; &lt;p&gt;Teredo Tunneling é uma tecnologia que permite que pacotes IPv6 sejam encapsulados em pacotes IPv4 nos dispositivos de rede que não suportam o IPv6, ou seja, se você estiver utilizando um dispositivo que usa transferência de endereços, ou rede da internet, utilizando o IPv4, você necessita dessa tecnologia.&lt;/p&gt; &lt;p&gt;O teredo é instalado por...</description>
-        <pubDate>Wed, 13 Feb 2019 17:24:44 -0200</pubDate>
-        <link>/Teredo-Tunneling/</link>
-        <guid isPermaLink="true">/Teredo-Tunneling/</guid>
-        
-        <category>Suporte</category>
-        
-        <category>Intermmediário</category>
-        
-        
-        <category>Suporte</category>
-        
-        <category>Microsoft Windows</category>
-        
-      </item>
     
       <item>
         <title>Bem-Vindo ao Cotidiano TI</title>
         <description>&lt;p&gt;Sejam todos bem-vindos ao blog &lt;strong&gt;Cotidiano TI&lt;/strong&gt;, onde eu irei compartilhar tudo o que estou estudando e minha experiência na área de TI, como uma troca de experiência entre profissionais, fomentando e disseminando tecnologias e conhecimento, cujo o foco é a livre troca de informações. Esperem traduções de artigos, estudos de caso, truques, tutoriais, sempre com o foco na prática.&lt;/p&gt; &lt;p&gt;Acredito que a evolção da área como um todo, passa por profissionais que tenham em seu íntimo a filosofia de compartilhar conhecimento, a inteligência coletiva é que fará a diferença, ela provoca o crescimento do mercado, não a competição entre...</description>
-        <pubDate>Mon, 11 Feb 2019 00:03:35 -0200</pubDate>
-        <link>/Bem-vindo-Cotidiano/</link>
-        <guid isPermaLink="true">/Bem-vindo-Cotidiano/</guid>
+        <pubDate>Sun, 31 Mar 2019 01:30:05 -0300</pubDate>
+        <link>/Bem-vindo-ao-Cotidiano-TI/</link>
+        <guid isPermaLink="true">/Bem-vindo-ao-Cotidiano-TI/</guid>
         
         <category>Blog</category>
         
@@ -59,54 +22,6 @@
         
         
         <category>Cotidiano TI</category>
-        
-      </item>
-    
-      <item>
-        <title>Reiniciar micro após mudanças nas variáveis de ambiente</title>
-        <description>&lt;h1 id=&quot;introdução&quot;&gt;Introdução&lt;/h1&gt; &lt;p&gt;Esta solução se aplica a Sistemas Operacionais Microsoft Windows.&lt;/p&gt; &lt;p&gt;Então você seguiu aquele tutorial na internet, passo a passo e no momento do teste, nada, então você resolve utilizar a famosa solução Windows (reiniciar a máquina) e resolve. Mas você sabe o motivo e a hora em que você precisa reiniciar após realizar algum procedimento?&lt;/p&gt; &lt;p&gt;A tarefa de atualizar programas e configurá-los para uso é corriqueira na TI, fazemos isso a todo o momento e isso vale para as boas e más práticas, uns realizam procedimentos com o domínio e conhecimento necessários, outros seguem apenas procedimentos de praxe,...</description>
-        <pubDate>Wed, 30 Jan 2019 03:25:35 -0200</pubDate>
-        <link>/reiniciar-windows-apos-atualizacao/</link>
-        <guid isPermaLink="true">/reiniciar-windows-apos-atualizacao/</guid>
-        
-        <category>Windows</category>
-        
-        
-        <category>Infraestrutura</category>
-        
-      </item>
-    
-      <item>
-        <title>Máquinas Virtuais</title>
-        <description>&lt;p&gt;Este é o primeiro post e gostaria de tratar de um assunto essencial para a informática como um todo, pequenas, grandes empresas, startups e principalmente para quem estuda, &lt;strong&gt;Virtualização&lt;/strong&gt;, todos já ouviram falar ou já utilizaram de alguma forma, mesmo se você nunca instalou na sua máquina você utiliza serviços que utilizam a virtualização em larga escala, e-mails, aplicativos de celulares, sim eles rodam em plataformas virtualizadas, ~youtube~ (bem, essa é uma polêmica que temos que deixar para outro momento hehe). A verdade é que, para que estuda ou desenvolve é crucial manter um ambiente de estudos fora da sua...</description>
-        <pubDate>Thu, 27 Dec 2018 00:28:35 -0200</pubDate>
-        <link>/maquina-virtual/</link>
-        <guid isPermaLink="true">/maquina-virtual/</guid>
-        
-        <category>Máquina Virtual</category>
-        
-        <category>Linux</category>
-        
-        <category>Windows</category>
-        
-        
-        <category>Infraestrutura</category>
-        
-      </item>
-    
-      <item>
-        <title>How to use</title>
-        <description>&lt;p&gt;This is a simple and minimalist template for Jekyll designed for developers that want to write blog posts but don’t want to care about frontend stuff.&lt;/p&gt; &lt;p&gt;The Theme features:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Gulp&lt;/li&gt; &lt;li&gt;Stylus (Jeet, Rupture, Kouto Swiss)&lt;/li&gt; &lt;li&gt;Smoothscroll&lt;/li&gt; &lt;li&gt;Live Search&lt;/li&gt; &lt;li&gt;Offcanvas Menu&lt;/li&gt; &lt;li&gt;SVG icons&lt;/li&gt; &lt;li&gt;Shell Script to create posts&lt;/li&gt; &lt;li&gt;Tags page&lt;/li&gt; &lt;li&gt;Series page&lt;/li&gt; &lt;li&gt;About Me page&lt;/li&gt; &lt;li&gt;Feed RSS&lt;/li&gt; &lt;li&gt;Sitemap.xml&lt;/li&gt; &lt;li&gt;Color Customization&lt;/li&gt; &lt;li&gt;Info Customization&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;basic-setup&quot;&gt;Basic Setup&lt;/h2&gt; &lt;ol&gt; &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Install Jekyll&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Fork the &lt;a href=&quot;https://github.com/willianjusten/will-jekyll-template/fork&quot;&gt;Will Jekyll Template&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Clone the repo you just forked.&lt;/li&gt; &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; to personalize your site.&lt;/li&gt; &lt;li&gt;Check out the sample posts in &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; to see examples...</description>
-        <pubDate>Mon, 03 Aug 2015 00:32:44 -0300</pubDate>
-        <link>/how-to-use/</link>
-        <guid isPermaLink="true">/how-to-use/</guid>
-        
-        <category>jekyll</category>
-        
-        <category>template</category>
-        
-        
-        <category>I love Jekyll</category>
         
       </item>
     
