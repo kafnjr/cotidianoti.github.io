@@ -5,9 +5,23 @@
     <description>Um site para divulgar portifólio. Um blog para compartilhar conhecimento</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Mar 2019 05:39:38 -0300</pubDate>
-    <lastBuildDate>Sun, 31 Mar 2019 05:39:38 -0300</lastBuildDate>
+    <pubDate>Mon, 01 Apr 2019 19:39:29 -0300</pubDate>
+    <lastBuildDate>Mon, 01 Apr 2019 19:39:29 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Reiniciar micro após mudanças nas variáveis de ambiente</title>
+        <description>&lt;h1 id=&quot;introdução&quot;&gt;Introdução&lt;/h1&gt; &lt;p&gt;Esta solução se aplica a Sistemas Operacionais Microsoft Windows.&lt;/p&gt; &lt;p&gt;Então você seguiu aquele tutorial na internet, passo a passo e no momento do teste, nada, então você resolve utilizar a famosa solução Windows (reiniciar a máquina) e resolve. Mas você sabe o motivo e a hora em que você precisa reiniciar após realizar algum procedimento?&lt;/p&gt; &lt;p&gt;A tarefa de atualizar programas e configurá-los para uso é corriqueira na TI, fazemos isso a todo o momento e isso vale para as boas e más práticas, uns realizam procedimentos com o domínio e conhecimento necessários, outros seguem apenas procedimentos de praxe,...</description>
+        <pubDate>Mon, 01 Apr 2019 16:24:00 -0300</pubDate>
+        <link>/reiniciar-windows-apos-atualizacao/</link>
+        <guid isPermaLink="true">/reiniciar-windows-apos-atualizacao/</guid>
+        
+        <category>Windows</category>
+        
+        
+        <category>Infraestrutura</category>
+        
+      </item>
     
       <item>
         <title>Bem-Vindo ao Cotidiano TI</title>

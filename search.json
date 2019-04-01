@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Reiniciar micro após mudanças nas variáveis de ambiente",
+      "category" : "Infraestrutura",
+      "tags"     : "Windows",
+      "url"      : "/reiniciar-windows-apos-atualizacao/",
+      "date"     : "01 Apr 2019"
+    } ,
+  
+    {
       "title"    : "Bem-Vindo ao Cotidiano TI",
       "category" : "Cotidiano TI",
       "tags"     : "Blog and Artigos",
