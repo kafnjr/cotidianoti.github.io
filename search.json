@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "erro no teclado dos Notebooks Lenovo (G50-80, E470, entre outros)",
+      "category" : "Sistema Microsoft Windows",
+      "tags"     : "Windows",
+      "url"      : "/Tecla-de-Interrogacao_lenovo/",
+      "date"     : "01 Apr 2019"
+    } ,
+  
+    {
       "title"    : "Reiniciar micro após mudanças nas variáveis de ambiente",
       "category" : "Infraestrutura",
       "tags"     : "Windows",

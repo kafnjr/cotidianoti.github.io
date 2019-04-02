@@ -5,9 +5,23 @@
     <description>Um site para divulgar portifólio. Um blog para compartilhar conhecimento</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Apr 2019 21:31:10 -0300</pubDate>
-    <lastBuildDate>Mon, 01 Apr 2019 21:31:10 -0300</lastBuildDate>
+    <pubDate>Tue, 02 Apr 2019 00:41:35 -0300</pubDate>
+    <lastBuildDate>Tue, 02 Apr 2019 00:41:35 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>erro no teclado dos Notebooks Lenovo (G50-80, E470, entre outros)</title>
+        <description>&lt;h1 id=&quot;tecla-de-interrogação-e-barra-parou-de-funcionar-no-notebook-lenovo-g50-80-e470-como-reparar&quot;&gt;Tecla de Interrogação e barra parou de funcionar no notebook Lenovo (G50-80, E470). Como reparar?&lt;/h1&gt; &lt;p&gt;Esse erro pode ocorrer após atualização do sistema operacional. A solução é simples, apesar do erro causar um certo desespero no proprietário do notebook, afinal, em um primeiro momento parece ser um erro irreparável no hardware e não de software, apesar de momentos antes ou um dia anterior o teclado ter funcionado normalmente e como sabemos reparo de hardware em notebook pode sair caro. Sem mais história, vamos direto ao procedimento.&lt;/p&gt; &lt;h2 id=&quot;procedimento&quot;&gt;Procedimento&lt;/h2&gt; &lt;p&gt;1 - Abra o “bloco de notas” do Windows, digitando “bloco...</description>
+        <pubDate>Mon, 01 Apr 2019 20:28:10 -0300</pubDate>
+        <link>/Tecla-de-Interrogacao_lenovo/</link>
+        <guid isPermaLink="true">/Tecla-de-Interrogacao_lenovo/</guid>
+        
+        <category>Windows</category>
+        
+        
+        <category>Sistema Microsoft Windows</category>
+        
+      </item>
     
       <item>
         <title>Reiniciar micro após mudanças nas variáveis de ambiente</title>
