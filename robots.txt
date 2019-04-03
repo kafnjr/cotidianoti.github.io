@@ -1,3 +1,9 @@
 # robotstxt.org/
 
 User-agent: *
+
+Disallow: /Bem-vindo-ao-Cotidiano-TI/
+
+Noindex: /Bem-vindo-ao-Cotidiano-TI/
+
+Sitemap: https://cotidianoti.com.br/sitemap.xml
