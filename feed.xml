@@ -5,9 +5,27 @@
     <description>Um site para divulgar portifólio. Um blog para compartilhar conhecimento</description>
     <link>http://www.cotidianoti.com.br/</link>
     <atom:link href="http://www.cotidianoti.com.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Apr 2019 11:18:00 -0300</pubDate>
-    <lastBuildDate>Fri, 05 Apr 2019 11:18:00 -0300</lastBuildDate>
+    <pubDate>Fri, 05 Apr 2019 13:41:38 -0300</pubDate>
+    <lastBuildDate>Fri, 05 Apr 2019 13:41:38 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Erro Teredo Tunneling</title>
+        <description>&lt;h1 id=&quot;erro-teredo-tunneling&quot;&gt;Erro Teredo Tunneling&lt;/h1&gt; &lt;p&gt;É particularmente interessante para mim falar sobre esse erro, pois parte do que me tornei como profissional eu devo a ele. Mas essa história eu conto no final deste artigo, logo após o passo a passo.&lt;/p&gt; &lt;h2 id=&quot;o-que-é-o-teredo-tunneling&quot;&gt;O que é o Teredo Tunneling?&lt;/h2&gt; &lt;p&gt;Teredo Tunneling é uma tecnologia que permite que pacotes IPv6 sejam encapsulados em pacotes IPv4 nos dispositivos de rede que não suportam o IPv6, ou seja, se você estiver utilizando um dispositivo que usa transferência de endereços, ou rede da internet, utilizando o IPv4, você necessita dessa tecnologia.&lt;/p&gt; &lt;p&gt;O teredo é instalado por...</description>
+        <pubDate>Fri, 05 Apr 2019 10:39:44 -0300</pubDate>
+        <link>http://www.cotidianoti.com.br/Teredo-Tunneling/</link>
+        <guid isPermaLink="true">http://www.cotidianoti.com.br/Teredo-Tunneling/</guid>
+        
+        <category>Suporte</category>
+        
+        <category>Intermmediário</category>
+        
+        
+        <category>Suporte</category>
+        
+        <category>Microsoft Windows</category>
+        
+      </item>
     
       <item>
         <title>erro no teclado dos Notebooks Lenovo (G50-80, E470, entre outros)</title>
