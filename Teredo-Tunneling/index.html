@@ -27,14 +27,14 @@
     <meta name="twitter:title" content="Erro Teredo Tunneling">
     <meta name="twitter:description" content="O dispositivo não pode iniciar (código 10) ">
     
-    <meta property="twitter:image:src" content="http://www.cotidianoti.com.br/assets/img/">
+    <meta property="twitter:image:src" content="http://www.cotidianoti.com.br/assets/img/assets/posts/windows.png">
     
 
     <!-- Social: Facebook / Open Graph -->
     <meta property="og:url" content="http://www.cotidianoti.com.br/Teredo-Tunneling/">
     <meta property="og:title" content="Erro Teredo Tunneling">
     
-    <meta property="og:image" content="http://www.cotidianoti.com.br/assets/img/">
+    <meta property="og:image" content="http://www.cotidianoti.com.br/assets/img/assets/posts/windows.png">
     
     <meta property="og:description" content="O dispositivo não pode iniciar (código 10) ">
     <meta property="og:site_name" content="Cotidiano TI">
@@ -169,26 +169,26 @@ Uma vez ativado ele busca em um DNS o endereço IPv4 correspondente a cada ender
 
 <p>1 - Abra o Gerenciador de Dispositivos, clique no menu Exibir e em seguida Mostrar os dispositivos ocultos. Clique com o botão direto do mouse sobre o dispositivo, vá em propriedades e na aba geral, verifique no campo “status do dispositivo” se é apresentada a mensagem de erro do título.</p>
 
-<p><img src="..\assets\img\teredo\exclamacao.png" alt="Adaptador com erro" /></p>
+<p><img src="..\assets\img\posts\teredo\exclamacao.png" alt="Adaptador com erro" /></p>
 
 <p>1.1 - Caso não visualize o dispositivo, clique em <strong>exibir\mostrar dispositivos ocultos</strong>
-   <img src="..\assets\img\teredo\gerenciadorDispositivos.png" alt="Mostrar dispositivos ocultos no gerenciador de dispositivos" /></p>
+   <img src="..\assets\img\posts\teredo\gerenciadorDispositivos.png" alt="Mostrar dispositivos ocultos no gerenciador de dispositivos" /></p>
 
 <p>2 - Pressione as teclas win + R, assim que a janela executar for aberta digite “regedit” e “ok”.</p>
 
-<p><img src="..\assets\img\teredo\regedit.png" alt="iniciando o editor de registros do Windows" /></p>
+<p><img src="..\assets\img\posts\teredo\regedit.png" alt="iniciando o editor de registros do Windows" /></p>
 
 <p>3 - Na janela do editor de registro do windows, utilize o sistema de navegação em pastas no lado esquerdo da janela e vá nas seguintes opções: <strong>HKEY_LOCAL_MACHINE \ SYSTEM \ CurrentControlSet \ services \ TCPIP6 \ Parameters</strong> e clique em <strong>parameters</strong></p>
 
-<p><img src="..\assets\img\teredo\caminho_reg.png" alt="janela do editor de registros do windows" /></p>
+<p><img src="..\assets\img\posts\teredo\caminho_reg.png" alt="janela do editor de registros do windows" /></p>
 
 <p>4 - Em <strong>parameters</strong> clique duas vezes na chave <strong>DisableComponents</strong>.</p>
 
-<p><img src="..\assets\img\teredo\DisableComponents.png" alt="Alterando chave de registro DisbleComponents " /></p>
+<p><img src="..\assets\img\posts\teredo\DisableComponents.png" alt="Alterando chave de registro DisbleComponents " /></p>
 
 <p>5 - Na janela <strong>Edit DWORD</strong> Altere o valor para 0 na base hexadecimal.</p>
 
-<p><img src="..\assets\img\teredo\alterarDWORD.jpg" alt="Editando o valor da chave de registro" /></p>
+<p><img src="..\assets\img\posts\teredo\alterarDWORD.jpg" alt="Editando o valor da chave de registro" /></p>
 
 <p><strong>Aqui vale uma dica essencial para a compreensão da alteração de valores no regedit, pois elas seguem o mesmo padrão. O valor 0 e “1” na base decimal, corresponde ao valor “0” (falso) e “1” (verdadeiro) na base binária, sendo assim, sempre que você digitar “0” para um determinado valor, você está o negando, nesse exemplo, como o valor é para desabilitar um componente, o valor “0” o habilita, com o valor um ocorre o contrário desse exemplo, pois ele torna a sentença verdadeira, nesse caso, o valor desabilitar componente seria verdadeiro, desabilitando o componente.</strong></p>
 
