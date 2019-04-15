@@ -5,9 +5,23 @@
     <description>Um site para divulgar portifólio. Um blog para compartilhar conhecimento</description>
     <link>http://www.cotidianoti.com.br/</link>
     <atom:link href="http://www.cotidianoti.com.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Apr 2019 17:19:40 -0300</pubDate>
-    <lastBuildDate>Fri, 05 Apr 2019 17:19:40 -0300</lastBuildDate>
+    <pubDate>Mon, 15 Apr 2019 14:18:45 -0300</pubDate>
+    <lastBuildDate>Mon, 15 Apr 2019 14:18:45 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Katie Bouman na História da Computação</title>
+        <description>&lt;ul&gt; &lt;li&gt;&lt;strong&gt;Ada Lovelace&lt;/strong&gt; - Criadora do primeiro algoritmo para ser processado por uma máquina.&lt;/li&gt; &lt;li&gt;Trio apelidado de &lt;strong&gt;Computadores Humanos da NASA&lt;/strong&gt; - Responsáveis por fazer um norte-americano orbitar ao redor da terra em 1962, um dos grandes feitos da NASA. Elas calcularam a trajetória de voo do Projeto Mercury e do Apollo 11. &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Katherine Johnson&lt;/strong&gt; - Contribuição fundamental para cálculos de trajetóriasm janelas de lançamento e caminhos de retorno, fundamental para aplicações da computação na NASA.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Doroty Johnson Vaughan&lt;/strong&gt; - Primeira mulher, supervisora negra na NACA, predecessora da NASA, chefiava o WEST AREA COMPUTERS, se especializou em computação e...</description>
+        <pubDate>Mon, 15 Apr 2019 06:00:00 -0300</pubDate>
+        <link>http://www.cotidianoti.com.br/Katie-Bouman/</link>
+        <guid isPermaLink="true">http://www.cotidianoti.com.br/Katie-Bouman/</guid>
+        
+        <category>Ciência da Computação</category>
+        
+        
+        <category>Programação</category>
+        
+      </item>
     
       <item>
         <title>Erro Teredo Tunneling</title>

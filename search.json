@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Katie Bouman na História da Computação",
+      "category" : "Programação",
+      "tags"     : "Ciência da Computação",
+      "url"      : "/Katie-Bouman/",
+      "date"     : "15 Apr 2019"
+    } ,
+  
+    {
       "title"    : "Erro Teredo Tunneling",
       "category" : "SuporteMicrosoft Windows",
       "tags"     : "Suporte and Intermmediário",
