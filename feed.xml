@@ -5,9 +5,23 @@
     <description>Um site para divulgar portifólio. Um blog para compartilhar conhecimento</description>
     <link>http://www.cotidianoti.com.br/</link>
     <atom:link href="http://www.cotidianoti.com.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Apr 2019 18:06:06 -0300</pubDate>
-    <lastBuildDate>Sun, 21 Apr 2019 18:06:06 -0300</lastBuildDate>
+    <pubDate>Mon, 27 May 2019 18:22:34 -0300</pubDate>
+    <lastBuildDate>Mon, 27 May 2019 18:22:34 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>VSCodium uma alternativa ao VSCode</title>
+        <description>&lt;h1 id=&quot;a-nova-microsoft&quot;&gt;A Nova Microsoft&lt;/h1&gt; &lt;p&gt;A Microsoft, desde que Satya Nadella assumiu o cargo de diretor executivo da empresa em fevereiro de 2014, veio implementando importantes mudanças na visão da Microsoft e na meneira como ela se relaciona com o mundo Open Source. Tá certo que em 2012, dois anos antes de Satya assumir o cargo, a Microsoft assumia a 17° posição de empresas contribuidoras com código para o Linux, de acordo com o relatório anual de desenvolvimento da Linux Foundation daquele ano. Mas, o que está por trás desse interesse da Microsoft, representando uma mudança radical na gigante de Redmond?&lt;/p&gt;...</description>
+        <pubDate>Mon, 15 Apr 2019 06:00:00 -0300</pubDate>
+        <link>http://www.cotidianoti.com.br/VSCodium-vs-VSCode/</link>
+        <guid isPermaLink="true">http://www.cotidianoti.com.br/VSCodium-vs-VSCode/</guid>
+        
+        <category>Desenvolvimento</category>
+        
+        
+        <category>Programação</category>
+        
+      </item>
     
       <item>
         <title>Katie Bouman na História da Computação</title>
