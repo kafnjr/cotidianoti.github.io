@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Comandos básicos no Linux",
+      "category" : "Infraestrutura",
+      "tags"     : "Linux and Iniciante",
+      "url"      : "/Comandos-basicos-linux/",
+      "date"     : "03 Jun 2019"
+    } ,
+  
+    {
       "title"    : "VSCodium uma alternativa ao VSCode",
       "category" : "Programação",
       "tags"     : "Desenvolvimento",
