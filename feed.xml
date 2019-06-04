@@ -5,13 +5,13 @@
     <description>Um site para divulgar portifólio. Um blog para compartilhar conhecimento</description>
     <link>http://www.cotidianoti.com.br/</link>
     <atom:link href="http://www.cotidianoti.com.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Jun 2019 06:10:08 -0300</pubDate>
-    <lastBuildDate>Mon, 03 Jun 2019 06:10:08 -0300</lastBuildDate>
+    <pubDate>Tue, 04 Jun 2019 00:04:39 -0300</pubDate>
+    <lastBuildDate>Tue, 04 Jun 2019 00:04:39 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Comandos básicos no Linux</title>
-        <description>&lt;h1 id=&quot;introdução&quot;&gt;Introdução&lt;/h1&gt; &lt;p&gt;A temível linha de comando do Linux, ou interpretador de comandos, capaz de deixar qualquer usuário de cabelo em pé na primeira utilização é a ferramenta mais útil deste Sistema Operacional, com ela é possível operar o sistema sem recorrer a interface gráfica. Provavelmente você chegou a essa página utilizando a estrtura da web sob servidores que utilizam sistemas operacionais que funcionam no modo texto ou modo shell, como alguns preferem. Nesse momento, tudo o que precisamos saber sobre terminais é que não temos apenas um tipo, temo o &lt;strong&gt;sh&lt;/strong&gt; (bournne shell), &lt;strong&gt;bash&lt;/strong&gt; (bourne again shell), &lt;strong&gt;ksh&lt;/strong&gt; (Korn...</description>
+        <description>&lt;h1 id=&quot;introdução&quot;&gt;Introdução&lt;/h1&gt; &lt;p&gt;A temível linha de comando do Linux, ou interpretador de comandos, capaz de deixar qualquer usuário de cabelo em pé na primeira utilização é a ferramenta mais útil deste Sistema Operacional, com ela é possível operar o sistema sem recorrer a interface gráfica. Provavelmente você chegou a essa página utilizando a estrtura da web sob servidores que utilizam sistemas operacionais que funcionam no modo texto ou modo shell, como alguns preferem. Nesse momento, tudo o que precisamos saber sobre terminais é que não temos apenas um tipo, temos o &lt;strong&gt;sh&lt;/strong&gt; (bournne shell), &lt;strong&gt;bash&lt;/strong&gt; (bourne again shell), &lt;strong&gt;ksh&lt;/strong&gt; (Korn...</description>
         <pubDate>Mon, 03 Jun 2019 02:40:00 -0300</pubDate>
         <link>http://www.cotidianoti.com.br/Comandos-basicos-linux/</link>
         <guid isPermaLink="true">http://www.cotidianoti.com.br/Comandos-basicos-linux/</guid>
